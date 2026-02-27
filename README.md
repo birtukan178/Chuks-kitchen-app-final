@@ -1,4 +1,4 @@
-👉 Live demo URL https://birtukan178.github.io/Chuks-kitchen-app/
+👉 Live demo URL https://birtukan178.github.io/Chuks-kitchen-app-final/
 
 
 👉 Project Overview
