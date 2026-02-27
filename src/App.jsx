@@ -18,7 +18,7 @@ function App() {
   // const firstTimeUser = !localStorage.getItem("visited"); 
   const firstTimeUser = true;
   return (
-    <Router basename="/Chuks-kitchen-app">
+    <Router basename="//Chuks-kitchen-app-final">
       <main>
         <Routes>
           {/* <Route
