@@ -20,16 +20,36 @@
          - Used useNavigate from React Router for navigation
          - Component-based architecture for reusability
      ✓ React Router
-         - Used for page navigation (It allows navigation without page reloads.), Implemented routing between:
-             1. Onboarding page to signin via signin button, to home page via learn more button and to signup page via start your order button.
-             2. Home to explore via discover what's new button.
-             3. My order to order summary page via view order summary button.
-             4. Add more link on my order page also navigate to explore page .
-             5. Order summary page to Delivery page via delivery button and to payment page via pickup button.
-             6. signin page to signup page via create new account link.
-             7. signup page to signin page via signin link.
-             8. back to home button both on signin and signup page also navigate to home page.
-             9. Explore and home page add to cart button and icon also add cart items on my order page.
+
+          Used for page navigation. It allows navigation between pages without reloading the browser.
+          Routing has been implemented for the following pages:
+
+         - Onboarding Page
+               1. Navigate to Sign In via the Sign In button.
+               2. Navigate to Home via the Learn More button.
+               3. Navigate to Sign Up via the Start Your Order button.
+
+         - Home Page
+
+               1. Navigate to the Explore page via the Discover What's New button.
+
+         - My Order Page
+
+               1. Navigate to the Order Summary page via the View Order Summary button.
+               2. The Add More link navigates to the Explore page.
+
+         - Order Summary Page
+               1. Navigate to the Delivery page via the Delivery button.
+               2. Navigate to the Payment page via the Pickup button.
+
+         - Authentication Pages
+               1. Sign In → Sign Up via the Create New Account link.
+               2. Sign Up → Sign In via the Sign In link.
+               3. Back to Home button on both pages navigates to the Home page.
+
+          - Cart Functionality
+               1. The Add to Cart button on both the Home and Explore pages adds items to the cart.
+               2. The cart icon also adds items and displays them on the My Order page.
      ✓ CSS
          - Custom CSS for styling
          - Responsive design for mobile and desktop
