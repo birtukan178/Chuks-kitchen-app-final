@@ -19,8 +19,8 @@
          - Used React Hooks (useState)
          - Used useNavigate from React Router for navigation
          - Component-based architecture for reusability
+         
      ✓ React Router
-
           Used for page navigation. It allows navigation between pages without reloading the browser.
           Routing has been implemented for the following pages:
 
@@ -30,11 +30,9 @@
                3. Navigate to Sign Up via the Start Your Order button.
 
          - Home Page
-
                1. Navigate to the Explore page via the Discover What's New button.
 
          - My Order Page
-
                1. Navigate to the Order Summary page via the View Order Summary button.
                2. The Add More link navigates to the Explore page.
 
